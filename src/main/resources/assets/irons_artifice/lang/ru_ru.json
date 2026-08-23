@@ -39,7 +39,7 @@
   "item.irons_artifice.simple_mechanical_components": "Простой механический компонент",
   "item.irons_artifice.mechanical_components": "Механический компонент",
   "item.irons_artifice.clockwork_components": "Точный компонент",
-  "item.irons_artifice.antigravity_powder_modifier": "Модификатор пороша против гравитации",
+  "item.irons_artifice.antigravity_powder_modifier": "Модификатор пороха против гравитации",
   "item.irons_artifice.buffer_spring_modifier": "Модификатор амортизирующей пружины",
   "item.irons_artifice.infinity_modifier": "Модификатор бесконечности",
   "item.irons_artifice.mechanical_accelerator_modifier": "Модификатор механического ускорителя",
