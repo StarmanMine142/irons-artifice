@@ -113,7 +113,7 @@
   "irons_artifice.tooltip.modifier_count_keybind_hint": "%s слотом модификатора (Открыть: [%s])",
   "irons_artifice.tooltip.keybind_hint": "[Открыть: %s]",
   "irons_artifice.tooltip.modifiers": "Модификаторы:",
-  "irons_artifice.tooltip.refunded_ammo": "Возвращено %s пуль!",
+  "irons_artifice.tooltip.refunded_ammo": "Возвращено %s пулю!",
   "irons_artifice.tooltip.accelerated_percent": "%s%% ускоренно",
 
   "death.attack.irons_artifice.bullet": "%2$s застрелил %1$s",
