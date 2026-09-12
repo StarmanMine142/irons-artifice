@@ -109,7 +109,6 @@
   "irons_artifice.tooltip.damage": "%s шкоди",
   "irons_artifice.tooltip.fire_rate": "%s скорострільности",
   "irons_artifice.tooltip.reload_time": "%s перезарядки",
-  "irons_artifice.tooltip.reload_time_suffix": "сек.",
   "irons_artifice.tooltip.modifier_count": "%s слотів модифікатора",
   "irons_artifice.tooltip.modifier_count_keybind_hint": "%s слотів модифікатора (Відкрити: [%s])",
   "irons_artifice.tooltip.keybind_hint": "[Відкрити: %s]",
