@@ -84,7 +84,7 @@
   "irons_artifice.component_type.poison_amplifier_on_hit": "+%s підсилювача отруєння",
   "irons_artifice.component_type.poison_duration_on_hit": "+%sсек. отруєння при влучанні",
   "irons_artifice.component_type.bullet_drag": "коефіцієнту опору кулі",
-  "irons_artifice.component_type.underwater_drag": "коефіцієнту опору кулі підводою",
+  "irons_artifice.component_type.underwater_drag": "коефіцієнту опору кулі під водою",
   "irons_artifice.component_type.leech": "максимуму пострілів кровопивці",
   "irons_artifice.modifier.blackpowder_charge": "Вибухає при влучанні",
   "irons_artifice.modifier.chain_lightning": "+%s ланцюгу блискавки при влучанні (%s%% шкоди кожен)",
